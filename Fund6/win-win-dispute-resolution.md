@@ -61,13 +61,20 @@ Q1 2022:
 - Fiat payment gateway
 - Mobile app development
 
+Q2 & Q3 2022:
+- Expand to all of North America
+- Expand language support
+- Execution of video-assisted mediation and arbitration on platform
+- Integration of court-mandated mediation
+- Integration into social good and government services
 
 ## KPIs
 
 - Number of ADR programs onboarded
 - Number of mediators onboarded
-- Number of parties singed up
+- Number of parties signed up
 - Number of mediations set up
+- Total volume of ADA involved in application transactions
 
 ## Budget breakdown
 
@@ -91,14 +98,16 @@ Once developed, Win-Win will generate income by charging a small, one-digit perc
 
 ## Related proposals
 
-[Extensible Marketplace Base Layer](https://cardano.ideascale.com/a/dtd/Extensible-Marketplace-Base-Layer/368797-48088)
-[Skill certification for Mediators](https://cardano.ideascale.com/a/dtd/Skill-certification-for-Mediators/368777-48088)
-[Proof of identity for mediators](https://cardano.ideascale.com/a/dtd/Proof-of-identity-for-mediators/368367-48088)
-[Gravatar for ADA Wallets](https://cardano.ideascale.com/a/dtd/Gravatar-for-ADA-Wallets/367448-48088)
+- [Extensible Marketplace Base Layer](https://cardano.ideascale.com/a/dtd/Extensible-Marketplace-Base-Layer/368797-48088)
+- [Skill certification for Mediators](https://cardano.ideascale.com/a/dtd/Skill-certification-for-Mediators/368777-48088)
+- [Proof of identity for mediators](https://cardano.ideascale.com/a/dtd/Proof-of-identity-for-mediators/368367-48088)
+- [Gravatar for ADA Wallets](https://cardano.ideascale.com/a/dtd/Gravatar-for-ADA-Wallets/367448-48088)
 
 ### Other projects
-[Cardano in South L.A.](https://cardano.ideascale.com/a/dtd/Cardano-in-South-L-A/367936-48088)
-[Scam Alert](https://cardano.ideascale.com/a/dtd/Scam-Alert/367015-48088)
 
-Attachments/links:
-[Win-Win Whitepaper](https://drive.google.com/file/d/1ZFoxpzimfTQcmglvMXgfrCJ7qHujzt0C/view?usp=sharing)
+- [Cardano in South L.A.](https://cardano.ideascale.com/a/dtd/Cardano-in-South-L-A/367936-48088)
+- [Scam Alert](https://cardano.ideascale.com/a/dtd/Scam-Alert/367015-48088)
+
+## Further reading
+
+- [Win-Win Whitepaper](https://drive.google.com/file/d/1ZFoxpzimfTQcmglvMXgfrCJ7qHujzt0C/view?usp=sharing)
