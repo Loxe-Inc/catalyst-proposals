@@ -19,7 +19,32 @@ A team of a dozen developers, Plutus pioneers, legal experts, dispute resolution
 
 Plan in detail:
 
-NOTE: This proposal is still being heavily edited.
+Win-Win is a decentralized dispute resolution platform and marketplace built on the Cardano blockchain. 
+It allows disputing parties to find a suitable mediator to help resolve their conflict in a timely and cost-effective manner outside the court system.
+The marketplace enables mediators to focus on the mediation process without having to engage in often questionable business boosting practices; cases flow to mediators for a small percentage of their mediation fee.
+
+## A Primer on Mediation
+Mediation is an alternative dispute resolution process that allows disputing parties to come up with their resolution that ideally satisfies the interests of all parties.
+
+On page 266, Carrie J Menkel-Meadow, Lela Porter-Love, Andrea Kupfer-Schneider, and Michael Moffitt write in *Dispute resolution: Beyond the adversarial model* (published by Aspen Publishers in 2005):
+> [It is] a process in which an impartial third party acts as a catalyst to help others constructively address and perhaps resolve a dispute, plan a transaction, or define the contours of a relationship
+
+
+A mediator, usually a neutral third party with no prior connection to any of the parties, controls the process of the mediation, but not the outcome. Ultimately, **mediation allows for parties to collaboratively solve their dispute.**
+
+This is in stark contrast to litigation, where parties are becoming increasingly entrenched throughout the process as adversaries. :rage4:
+
+Mediation within communities and the workplace have become common.
+Depending on the type of case and jurisdiction, parties may be required to seek mediation prior to being permitted into the court room.
+As mediation has an extremely high **success rate** in the upper ninety percent range, many cases never make it into litigation.
+
+As the term mediator is not protected, anyone can claim to be a mediator. However, a skilled mediator has commonly gone through an extensive training program. Certified mediators on Win-Win have advanced degrees in Conflict Resolution or Law in addition to having graduated from effective mediation training programs.
+
+Some mediations may also require special subject matter expertise, as discussed on [Ken Adam's livestream](https://youtu.be/HihqicZUyhc?t=1366).
+
+Most importantly, mediators are great listeners.
+Parties will be heard --- something that the court system cannot guarantee.
+
 
 ## Current problems vs Solutions through Win-Win
 
@@ -29,7 +54,6 @@ NOTE: This proposal is still being heavily edited.
 |__Mediation process slow to start__<br>Conflicting parties do not have months to start the mediation process when they are ready to kill each other, and the current process to set up a mediation might take that long.|__Convenience__<br>Parties find mediators specialized for their case instantaneously through our DApp. Clients flow to qualified mediators, according to their availability.|
 |__Refund/payment guarantees__<br>Mediators may favor the party who pays their fees first. Mediators sometimes have to run after their money. Parties have no refund guarantees on a no-show by the mediator.|__No-hassle payment__<br>Refunds and payments are handled by smart contracts. The mediator doesn't know who paid first, therefore lower risk of bias in the mediation process. The parties are refunded in case of a no-show by the mediator.|
 |__Ethical mediators don't have repeat clients__<br>As the DevOps of Conflict Resolution, mediation helps parties to solve not only their acute, but also future disputes.<br>Good for the world, but bad for business.|__Mediators focus on the process__<br>Win-Win pre-selects suitable mediators for any given case. On Win-Win, mediators can focus on doing their work, and not trying to be the loudest on social media.|
-
 
 ## Team
 
