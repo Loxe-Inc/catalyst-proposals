@@ -132,6 +132,7 @@ Once developed, Win-Win will generate income by charging a small, one-digit perc
 - [Cardano in South L.A.](https://cardano.ideascale.com/a/dtd/Cardano-in-South-L-A/367936-48088)
 - [Scam Alert](https://cardano.ideascale.com/a/dtd/Scam-Alert/367015-48088)
 
-## Further reading
+## Further resources
 
 - [Win-Win Whitepaper](https://drive.google.com/file/d/1ZFoxpzimfTQcmglvMXgfrCJ7qHujzt0C/view?usp=sharing)
+- [Win-Win Dispute Resolution DApp UX August 2021](https://youtu.be/fEy4NVJAo4g)
